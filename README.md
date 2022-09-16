@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando em **projetos pessoais**
 - 🌱 Estudando **Técnico em Desenvolvimento de Sistemas/Senac-RS**
-- 👯 Estudando **Java POO**
+- 👯 Estudando **Java POO**/**HTML5 E CSS3**
 - 🤔 Curiosidade em *Front-End/Back-End/Mobile*
 
 <div align="center">
@@ -13,6 +13,8 @@
 
 </div>
 <div style="display: inline_block"><br>
+   <img align="left" alt="Vini-Html5" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   <img align="left" alt="Vini-Css3" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    <img align="left" alt="Vini-Java" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
    
 </div>
