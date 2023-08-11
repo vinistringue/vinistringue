@@ -1,9 +1,11 @@
 ### Olá! Eu sou Vinícius, desenvolvedor java jr!
 
+### SOBRE MIM
+- E aí, pessoal! Sou o Vinícius, um amante do Java que adora transformar linhas de código em soluções incríveis. Tenho me aventurado em projetos pessoais com Java, ChatGPT, MySQL, git e GitHub, explorando o mundo da programação. Se você procura alguém com paixão por Java e vontade de aprender, tamo junto!
 
 - 🔭 Atualmente trabalhando em **projetos pessoais**
 - 🌱 Estudando **Técnico em Desenvolvimento de Sistemas/Senac-RS**
-- 👯 Estudando **Java POO**/**HTML5 E CSS3**
+- 👯 Estudando **Java POO**/**HTML5 E CSS3**/**CHAT-GPT para Devs**
 - 🤔 Curiosidade em *Front-End/Back-End/Mobile*
 
 <div align="center">
