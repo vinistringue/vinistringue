@@ -30,3 +30,13 @@
  
  
 ![Snake animation](https://github.com/vinistringue/vinistringue/blob/output/github-contribution-grid-snake.svg)
+
+
+
+### HABILIDADES TÉCNICAS
+• Metodologia Ágil: Scrum e Kanban
+• Linguagem de programação Java
+• Spring Boot (em desenvolvimento/estudando)
+• Banco de dados MySQL
+• Git para versionamento
+• Inteligência Artificial Chat GPT
