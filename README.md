@@ -1,4 +1,4 @@
-# Olá! Eu sou Vinícius, desenvolvedor java jr!
+# Java Júnior na Estrada: Vinícius, Codificando o Futuro!
 
 ### SOBRE MIM
 - E aí, pessoal! Sou o Vinícius, um amante do Java que adora transformar linhas de código em soluções incríveis. Tenho me aventurado em projetos pessoais com Java, ChatGPT, MySQL, git e GitHub, explorando o mundo da programação. Se você procura alguém com paixão por Java e vontade de aprender, tamo junto!
