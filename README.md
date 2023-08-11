@@ -9,12 +9,12 @@
 - 🤔 Curiosidade em *Front-End/Back-End/Mobile*
 
 ### HABILIDADES TÉCNICAS
-• Metodologia Ágil: Scrum e Kanban
-• Linguagem de programação Java
-• Spring Boot (em desenvolvimento/estudando)
-• Banco de dados MySQL
-• Git para versionamento
-• Inteligência Artificial Chat GPT
+- Metodologia Ágil: Scrum e Kanban
+-  Linguagem de programação Java
+- Spring Boot (em desenvolvimento/estudando)
+- Banco de dados MySQL
+- Git para versionamento
+- Inteligência Artificial Chat GPT
 
 <div align="center">
   <a href="https://github.com/vinistringue">
