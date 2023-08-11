@@ -8,6 +8,14 @@
 - 👯 Estudando **Java POO**/**HTML5 E CSS3**/**CHAT-GPT para Devs**
 - 🤔 Curiosidade em *Front-End/Back-End/Mobile*
 
+### HABILIDADES TÉCNICAS
+• Metodologia Ágil: Scrum e Kanban
+• Linguagem de programação Java
+• Spring Boot (em desenvolvimento/estudando)
+• Banco de dados MySQL
+• Git para versionamento
+• Inteligência Artificial Chat GPT
+
 <div align="center">
   <a href="https://github.com/vinistringue">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinistringue&show_icons=true&theme=dracula&include_all_commits=true&count_private="false"/>
@@ -33,10 +41,3 @@
 
 
 
-### HABILIDADES TÉCNICAS
-• Metodologia Ágil: Scrum e Kanban
-• Linguagem de programação Java
-• Spring Boot (em desenvolvimento/estudando)
-• Banco de dados MySQL
-• Git para versionamento
-• Inteligência Artificial Chat GPT
