@@ -5,7 +5,8 @@
 - E aí, pessoal! Sou o Vinícius, um amante do Java que adora transformar linhas de código em soluções incríveis. Tenho me aventurado em projetos pessoais com Java, ChatGPT, MySQL, git e GitHub, explorando o mundo da programação. Se você procura alguém com paixão por Java e vontade de aprender, tamo junto!
 
 - 🔭 Atualmente trabalhando em **projetos pessoais**
-- 🌱 Estudando **Técnico em Desenvolvimento de Sistemas/Senac-RS**
+- 🌱 **Curso Técnico em Desenvolvimento de Sistemas/Senac-RS - (Concluido)**
+- 🌱 **Curso Tecnologia em Análise e Desenvolvimento de Sistemas/Senac-RS - (Cursando inicio 2024)**
 - 🌱 Estudando **Java POO**/**FullStack**/**CHAT-GPT for Devs**
 
 ### HABILIDADES TÉCNICAS 🔭
