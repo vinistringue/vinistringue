@@ -1,46 +1,160 @@
-# 🔭 Java Júnior na Estrada: Vinícius, Codificando o Futuro!
+<!-- ============================================= -->
+<!--              VINÍCIUS STRINGUE               -->
+<!-- ============================================= -->
 
-### SOBRE MIM 🔭
+<h1 align="center">
+🚀 Vinícius Stringue de Paula
+</h1>
 
-- E aí, pessoal! Sou o Vinícius, um amante do Java que adora transformar linhas de código em soluções incríveis. Tenho me aventurado em projetos pessoais com Java, ChatGPT, MySQL, git e GitHub, explorando o mundo da programação. Se você procura alguém com paixão por Java e vontade de aprender, tamo junto!
+<p align="center">
+<strong>Software Developer | Systems Builder | Automação & IA</strong>
+</p>
 
-- 🔭 Atualmente trabalhando em **projetos pessoais**
-- 🌱 **Curso Técnico em Desenvolvimento de Sistemas/Senac-RS - (Concluido)**
-- 🌱 **Curso Tecnologia em Análise e Desenvolvimento de Sistemas/Senac-RS - (Cursando inicio 2024)**
-- 🌱 Estudando **Java POO**/**FullStack**/**CHAT-GPT for Devs**
+<p align="center">
+Construindo sistemas reais, aprendendo profundamente e evoluindo todos os dias.
+</p>
 
-### HABILIDADES TÉCNICAS 🔭
+---
 
-- Metodologia Ágil: Scrum e Kanban
-- Linguagem de programação Java
-- Spring Boot (em desenvolvimento/estudando)
-- Banco de dados MySQL
-- Git para versionamento
-- Inteligência Artificial Chat GPT
+## 🧠 Sobre Mim
 
+Sou Desenvolvedor de Sistemas com formação técnica pelo Senac EAD, focado na construção de aplicações web, APIs REST e soluções escaláveis.
 
-<div align="center">
-  <a href="https://github.com/vinistringue">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinistringue&show_icons=true&theme=dracula&include_all_commits=true&count_private="false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinistringue&layout=compact&langs_count=7&theme=dracula"/>
+Tenho forte interesse em:
 
-</div>
-<div style="display: inline_block"><br>
-   <img align="left" alt="Vini-Html5" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-   <img align="left" alt="Vini-Css3" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-   <img align="left" alt="Vini-Java" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-   
-</div>
-  
-    
-   ##
-    
-    
- <div align="right">
-   <a href="https://www.linkedin.com/in/vinicius-stringue-de-paula-810033150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-![Snake animation](https://github.com/vinistringue/vinistringue/blob/output/github-contribution-grid-snake.svg)
+- Arquitetura de sistemas
+- Automação inteligente
+- Inteligência Artificial aplicada ao desenvolvimento
+- Observabilidade e monitoramento
+- Infraestrutura moderna
 
+Meu objetivo não é apenas escrever código.  
+É entender como sistemas funcionam de ponta a ponta.
 
+---
+
+## 🛠️ Stack Técnica
+
+### 💻 Linguagens
+```
+Java • Python • JavaScript • HTML5 • CSS3
+```
+
+### 🌐 Frontend
+```
+React • Angular • Interfaces Responsivas
+```
+
+### 🔧 Backend & APIs
+```
+REST APIs • Flask • FastAPI • Integrações • Postman
+```
+
+### 🗄️ Banco de Dados
+```
+MySQL • PostgreSQL (em aprendizado)
+```
+
+### 📡 Mensageria & Monitoramento
+```
+FaircomEdge • MQTT • Grafana
+```
+
+### 🐳 Infraestrutura
+```
+Docker (em aprendizado)
+```
+
+### 🏢 Análise & Ambiente Enterprise
+```
+Enterprise Analyzer (em aprendizado)
+```
+
+### 🧠 Ferramentas & Engenharia
+```
+Git • GitHub • Inteligência Artificial aplicada • Engenharia de Prompts • Vibe Coding
+```
+
+---
+
+## 📌 Projetos em Desenvolvimento
+
+### 🏢 Sistema de Gestão para Condomínio
+- Controle de contribuições mensais  
+- Alertas automáticos de pagamento  
+- Mural de avisos  
+- Estrutura planejada para modelo SaaS  
+- Foco em organização de regras de negócio e escalabilidade  
+
+---
+
+### 💄 Sistema de Gestão para Clínicas de Estética
+- Organização de clientes e atendimentos  
+- Estrutura modular e escalável  
+- Planejamento para automações com IA  
+- Visão orientada a produto  
+
+---
+
+### 🧩 Projetos Acadêmicos e Práticos
+- Resort Paraíso Oásis — aplicação prática de regras de negócio  
+- Recanto Terceiro Lago — sistema para controle de locação  
+- REST APIs com Python (Flask e FastAPI) — desenvolvimento e testes com Postman  
+
+---
+
+## 📚 Formação
+
+Técnico em Desenvolvimento de Sistemas — Senac EAD  
+Ensino Médio Completo — Colégio Albert Einstein  
+
+---
+
+## 🌍 Idiomas
+
+Português — Nativo  
+Inglês — Intermediário  
+Alemão — Iniciante  
+
+---
+
+## 🎯 Atualmente Estudando
+
+- Docker (containerização e ambientes isolados)  
+- PostgreSQL  
+- Enterprise Analyzer  
+- FaircomEdge  
+- Grafana  
+- Arquitetura de APIs  
+- Modelagem de banco de dados  
+- Boas práticas para ambientes produtivos  
+
+---
+
+## 📈 Objetivo Profissional
+
+Busco oportunidades que valorizem:
+
+- Crescimento técnico real  
+- Participação ativa na construção de sistemas  
+- Aprendizado contínuo  
+- Ambientes desafiadores  
+
+Quero contribuir com soluções bem estruturadas, com visão de longo prazo e mentalidade de engenharia.
+
+---
+
+## 📬 Contato
+
+📧 vinicius.stringue.depaula@gmail.com  
+📱 (11) 94993-7080  
+🌎 Brasil  
+
+GitHub: https://github.com/vinistringue  
+
+---
+
+<p align="center">
+<em>Building systems. Learning deeply. Shipping consistently.</em>
+</p>
 
