@@ -7,29 +7,25 @@
 </h1>
 
 <p align="center">
-<strong>Software Developer | Systems Builder | Automação & IA</strong>
+<strong>Software Developer | Systems Builder | Automação • IA • Arquitetura</strong>
 </p>
 
 <p align="center">
-Construindo sistemas reais, aprendendo profundamente e evoluindo todos os dias.
+Construindo sistemas reais, pensando em arquitetura e evoluindo todos os dias.
 </p>
 
 ---
 
 ## 🧠 Sobre Mim
 
-Sou Desenvolvedor de Sistemas com formação técnica pelo Senac EAD, focado na construção de aplicações web, APIs REST e soluções escaláveis.
+Sou Desenvolvedor de Sistemas com formação técnica pelo Senac EAD, com foco na construção de aplicações escaláveis, APIs robustas e soluções orientadas a negócio.
 
-Tenho forte interesse em:
+Atuo combinando programação tradicional com **Vibe Coding**, aplicando raciocínio lógico, engenharia de prompts e validação técnica para acelerar desenvolvimento sem perder qualidade.
 
-- Arquitetura de sistemas
-- Automação inteligente
-- Inteligência Artificial aplicada ao desenvolvimento
-- Observabilidade e monitoramento
-- Infraestrutura moderna
+Também utilizo **Antigravity com agentes de IA** para auxiliar na construção, organização e otimização de sistemas.
 
 Meu objetivo não é apenas escrever código.  
-É entender como sistemas funcionam de ponta a ponta.
+É entender sistemas de ponta a ponta — da lógica ao ambiente produtivo.
 
 ---
 
@@ -65,14 +61,19 @@ FaircomEdge • MQTT • Grafana
 Docker (em aprendizado)
 ```
 
-### 🏢 Análise & Ambiente Enterprise
+### 🏢 Ambiente Enterprise & Análise
 ```
 Enterprise Analyzer (em aprendizado)
 ```
 
-### 🧠 Ferramentas & Engenharia
+### 🤖 Inteligência Artificial & Engenharia
 ```
-Git • GitHub • Inteligência Artificial aplicada • Engenharia de Prompts • Vibe Coding
+Antigravity • Agentes de IA • Engenharia de Prompts • IA aplicada ao desenvolvimento • Vibe Coding
+```
+
+### 🔧 Ferramentas
+```
+Git • GitHub
 ```
 
 ---
@@ -84,13 +85,14 @@ Git • GitHub • Inteligência Artificial aplicada • Engenharia de Prompts �
 - Alertas automáticos de pagamento  
 - Mural de avisos  
 - Estrutura planejada para modelo SaaS  
-- Foco em organização de regras de negócio e escalabilidade  
+- Organização de regras de negócio  
+- Pensado para escalabilidade  
 
 ---
 
 ### 💄 Sistema de Gestão para Clínicas de Estética
-- Organização de clientes e atendimentos  
-- Estrutura modular e escalável  
+- Gestão de clientes e atendimentos  
+- Estrutura modular  
 - Planejamento para automações com IA  
 - Visão orientada a produto  
 
@@ -99,7 +101,7 @@ Git • GitHub • Inteligência Artificial aplicada • Engenharia de Prompts �
 ### 🧩 Projetos Acadêmicos e Práticos
 - Resort Paraíso Oásis — aplicação prática de regras de negócio  
 - Recanto Terceiro Lago — sistema para controle de locação  
-- REST APIs com Python (Flask e FastAPI) — desenvolvimento e testes com Postman  
+- REST APIs com Python (Flask e FastAPI) — testes e validações com Postman  
 
 ---
 
@@ -139,8 +141,9 @@ Busco oportunidades que valorizem:
 - Participação ativa na construção de sistemas  
 - Aprendizado contínuo  
 - Ambientes desafiadores  
+- Arquitetura bem estruturada  
 
-Quero contribuir com soluções bem estruturadas, com visão de longo prazo e mentalidade de engenharia.
+Quero atuar construindo soluções que funcionem em produção, com visão de longo prazo e mentalidade de engenharia.
 
 ---
 
@@ -155,6 +158,5 @@ GitHub: https://github.com/vinistringue
 ---
 
 <p align="center">
-<em>Building systems. Learning deeply. Shipping consistently.</em>
+<em>Building systems. Thinking in architecture. Shipping with intelligence.</em>
 </p>
-
